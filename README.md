@@ -10,3 +10,7 @@ This project has allowed me to understand many programming fundamentals, whilst 
 
 ### Why I built this:
 A few months prior my father had a heart surgery and he required O negative blood. We weren't aware of blood centres around us and didn't know where to go or where to call. During that difficult time, I thought of this app and decided to pursue it as my end semester project.
+
+🛠 Requirements
+* **Qt 6.x** 
+* **Modules:** You need to have 'Qt Location' and 'Qt Positioning' installed via the Qt Maintenance Tool.
