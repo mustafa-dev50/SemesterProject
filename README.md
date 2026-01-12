@@ -23,3 +23,5 @@ In the future I would like to:
 
 1. Add a more interactive experience with the map and hospital search tab
 2. Keep a realtime blood stock levels for different blood types in different centres.
+
+### "ALL RIGHTS RESERVED"
